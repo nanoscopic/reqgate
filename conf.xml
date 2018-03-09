@@ -1,0 +1,7 @@
+<socket_out>ipc://c:/proj/github/lumith/ipc/client.ipc</socket_out>
+<socket_in>ipc://c:/proj/github/lumith/ipc/server_%u.ipc</socket_in>
+<port>9991</port>
+
+<static>
+    <folder url="test" local="c:/proj/github/lumith/statics/test" />
+</static>
